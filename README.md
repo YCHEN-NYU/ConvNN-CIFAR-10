@@ -8,8 +8,8 @@ The dataset CIFAR-10 is downloaded into the linux server from <a href = "https:/
 ### Prerequisites
 
 AWS AMI Ubuntu 16.04 with tensorflow, keras pre-installed. 
-A jupyter notebook server is configured on the Linux server by the following tutorial from AWS.
-<a href = "https://docs.aws.amazon.com/dlami/latest/devguide/tutorial-jupyter.html">
+A jupyter notebook server is configured on the Linux server by the following tutorial from
+<a href = "https://docs.aws.amazon.com/dlami/latest/devguide/tutorial-jupyter.html"> AWS </a>.
 
 The notebook is opened in the local linux machine and computation is done by the server.
 
