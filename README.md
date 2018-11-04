@@ -2,7 +2,7 @@
 Build an image classifier by a convolution neural network and perform training/testing in the AWS AMI instance.
 
 ## Getting Started
-The dataset CIFAR-10 is downloaded into the linux server from <href = "https://www.cs.toronto.edu/~kriz/cifar.html">, unpacked and read into the numpy.array
+The dataset CIFAR-10 is downloaded into the linux server from <a href = "https://www.cs.toronto.edu/~kriz/cifar.html">, unpacked and read into the numpy.array
 
 
 ### Prerequisites
