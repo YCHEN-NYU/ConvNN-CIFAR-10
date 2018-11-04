@@ -14,6 +14,6 @@ A jupyter notebook server is configured on the Linux server by the following tut
 The notebook is opened in the local linux machine and computation is done by the server.
 
 ### Performance
-Training/Testing performance with the simple ConvNN can reach ~90% accuracy but the testing performance reaches ~70%. The 20% gap denotes the training dataset has overfit issues.
+Training performance with the simple ConvNN can reach ~90% accuracy but the testing performance reaches ~70%. The 20% gap denotes the training dataset has overfit issues.
 
 
